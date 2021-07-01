@@ -35,7 +35,7 @@ var created = Date.now();
 var duckTypeMessage = {
   text,
   created
-}
+};
 
 console.log(duckTypeMessage);
 
